@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="name">Lixo Ten</string>
+    <string name="title">System Analyst</string>
+
+    <string name="info_phone">+1 800–555–1212</string>
+    <string name="info_share">\@AndroidDev</string>
+    <string name="info_email">lixoten@goo.com</string>
+
+    <string name="info_phone_label">Phone number</string>
+    <string name="info_share_label">Social media</string>
+    <string name="info_email_label">Email address</string>
+</resources>
