@@ -13,7 +13,7 @@ This is a project and no solution is posted by https://developer.android.com/
 
 ## Objective
 Build an Android app by following specs. UI mockups/designs, that contain exact specifications with 
-a simple user interface that displays text and images
+a simple user interface that displays text and images.
 
 ### ANDROID BASICS WITH COMPOSE - Unit 1: Your first Android app - Pathway 3 (Build a basic layout)
 **Unit 1 > Pathway 3 : Build a basic layout**  
